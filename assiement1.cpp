@@ -6,6 +6,7 @@ using namespace std;
 
 int main(int myInt, char* myChar[])
 {
+cout<<"i am changing"<<endl;
 displayversion();
     string url = "https://cs.utdallas.edu:80/directory/faculty/people.html?name=Robert";
     string foundedProtocols[] = { "http", "https", "ftp", "ftps" };
